@@ -9,9 +9,11 @@
 /coverage
 
 # production
-/build
+# /build
 
 # misc
+.eslintcache
+/.eslintcache
 .DS_Store
 .env.local
 .env.development.local
